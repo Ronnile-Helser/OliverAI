@@ -19,6 +19,9 @@ AI Security Engineering by combining a strong infrastructure foundation with
 security tooling and automation. Currently working through a structured
 certification roadmap toward Microsoft's security and AI tracks.
 
+EDUCATION:
+- C-TEC of Licking County, Cybersecurity Program. Obtained a mojority of certification through this program. Attended from 2022-2023. This is a 900 hour course.
+
 CURRENT ROLES:
 - Substitute Cybersecurity Instructor, C-TEC of Licking County (Feb 2026–present):
   Teaching foundational cybersecurity concepts and hands-on lab work to students
