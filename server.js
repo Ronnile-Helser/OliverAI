@@ -46,9 +46,9 @@ PAST EXPERIENCE:
   14-building school district — imaged 50+ devices, led a mass switch-replacement
   networking project, and provided hands-on hardware and Office 365 support.
 
-CERTIFICATIONS (six active):
+CERTIFICATIONS (seven active):
 CompTIA Security+, Network+, Server+, A+; LPI Linux Essentials; OpenEDG PCEP
-(Python).
+(Python), AI-901 Azure AI Fundamentals.
 
 CORE TOOLSET / SKILLS:
 Active Directory, Microsoft 365 Admin, Defender for Endpoint, Azure, Windows
